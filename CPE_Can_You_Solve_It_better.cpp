@@ -9,7 +9,7 @@ int steps(long& x, long& y){
 int main(){
     int tc = 0;
     cin >> tc;
-    for (int i=1; i<=tc; i++){
+    for (int i = 1; i <= tc; i++){
         cout << "Case " << i << ": ";
         long x1 = 0, y1 = 0, x2 = 0, y2 = 0;
         cin >> x1 >> y1 >> x2 >> y2;
